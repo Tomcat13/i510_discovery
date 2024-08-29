@@ -1,0 +1,8 @@
+name: gitstuff
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - ipykernel
+    - dash
+    - pandas
